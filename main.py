@@ -1,2 +1,1 @@
-print('1')
-input()
+print('3')
